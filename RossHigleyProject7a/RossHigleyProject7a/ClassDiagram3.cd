@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RossHigleyProject7a.Sound" Collapsed="true">
+    <Position X="26.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQCgAAAEACBgAAAAAAAAAgKACAEAIgAgAAAAAA=</HashCode>
+      <FileName>FX\Sound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.SpecialEffects" Collapsed="true">
+    <Position X="28.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAEAAAAQAQKIACAAIQQgAAAQAAIAABA=</HashCode>
+      <FileName>FX\SpecialEffects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Voices" Collapsed="true">
+    <Position X="19.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEAAACAQAAAAAAAQAAAIAAAAAgAAAAAAAAYI=</HashCode>
+      <FileName>FX\Voices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.AnimatedGraphic" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgEAAAAAQAIAAAEoAAEAIhAACAAAAAgAAAAAAIAA=</HashCode>
+      <FileName>Game Manager\AnimatedGraphic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Environment" Collapsed="true">
+    <Position X="24.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Game Manager\Environment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.GameManager" Collapsed="true">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IggAAMBEABAJCAAAIAGAAECDAAACAABAAIIkoACBEIE=</HashCode>
+      <FileName>Game Manager\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Graphic" Collapsed="true">
+    <Position X="21.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAQAAAAAAAAIAAAAAEAAAQAAQAAAAkAAAAAA=</HashCode>
+      <FileName>Game Manager\Graphic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Level" Collapsed="true">
+    <Position X="24.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAIAAAAAAAAAEgBAAAAAABAAAAARAAAA=</HashCode>
+      <FileName>Game Manager\Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.LevelDifficultyAlgorithim" Collapsed="true">
+    <Position X="26.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Game Manager\LevelDifficultyAlgorithim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Score" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAUEAAAIAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Manager\Score.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RossHigleyProject7a.ScoreForm" Collapsed="true">
+    <Position X="28.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAIACAAAAAQAAAEAACAAAAAA=</HashCode>
+      <FileName>Game Manager\ScoreForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Scores" Collapsed="true">
+    <Position X="17.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RCIAABAAMAAAAQAgIQEIAACAJAggDCAAAAAAgAASAAA=</HashCode>
+      <FileName>Game Manager\Scores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Settings" Collapsed="true">
+    <Position X="19.5" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="RossHigleyProject7a.Settings.Difficulty" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Game Manager\Settings.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEuAAAgBAwIAARQAAAEEgAAQAAAIAAYAAIAAAAAAAIE=</HashCode>
+      <FileName>Game Manager\Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.SettingsForm" Collapsed="true">
+    <Position X="23" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Manager\SettingsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.MainForm" Collapsed="true">
+    <Position X="28.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EGAAAAQkADAAAhBAAHCUUgICSIAABAAAEQAAECSAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Program" Collapsed="true">
+    <Position X="23" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Asteroid">
+    <Position X="7.25" Y="14.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="RossHigleyProject7a.Asteroid.SIZE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>References\Objects\EnemyBussiness\Asteroid.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAgAAAAAAACAAAAAQAAAAAAAAAAAgAAAAEAAA=</HashCode>
+      <FileName>References\Objects\EnemyBussiness\Asteroid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Debris">
+    <Position X="0.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAEAAAAAABAQAAAAAQAAEAAA=</HashCode>
+      <FileName>References\Objects\EnemyBussiness\Debris.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.BigDummy">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQoAAAAAAAICAAAAQAAAAIAAAAAAQBAAAQiAAAAA=</HashCode>
+      <FileName>References\Objects\EnemyBussiness\Enemy Tactics\BigDummy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Boxer">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgACoAEAAABAACABAAAAAAAAAAAAIAQAAAAACAAAAA=</HashCode>
+      <FileName>References\Objects\EnemyBussiness\Enemy Tactics\Boxer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Guerilla">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgACoIEAAABAAKABAAAAAAAAAAECIAQAAAAACEAAAA=</HashCode>
+      <FileName>References\Objects\EnemyBussiness\Enemy Tactics\Guerilla.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Sniper">
+    <Position X="15.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACoAEAAABAAKABABAAAAAABAEAIAQAAAAASEAAAA=</HashCode>
+      <FileName>References\Objects\EnemyBussiness\Enemy Tactics\Sniper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Tactics">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAgAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>References\Objects\EnemyBussiness\Enemy Tactics\Tactics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Enemy">
+    <Position X="8.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAEAAAAAAAAAgAAgAAAIAAAA=</HashCode>
+      <FileName>References\Objects\EnemyBussiness\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.EnemyShip">
+    <Position X="9.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAIAAgAASIAAAAwAAAIwAgAAAACAAAAgAAAAEAAA=</HashCode>
+      <FileName>References\Objects\EnemyBussiness\EnemyShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Entity2D">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABBIAIAgABAAEAAAUQKBFEADGwAwAgACgEAkEEAFBBA=</HashCode>
+      <FileName>References\Objects\Entity2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Laser">
+    <Position X="2.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAIAAAAAAAAAAAAEIgAAAAIIAAABAABBAEAAA=</HashCode>
+      <FileName>References\Objects\PlayerBussiness\Laser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Missle">
+    <Position X="2.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAIA=</HashCode>
+      <FileName>References\Objects\PlayerBussiness\Missle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.PlayerShip">
+    <Position X="5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAIAAgQEBQQIQDh5ECAM0AgIAgAIAAAAQAwIIlAGA=</HashCode>
+      <FileName>References\Objects\PlayerBussiness\PlayerShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Constants" Collapsed="true">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAgAAAgAAAAAAAAAACACAAAQ=</HashCode>
+      <FileName>References\Utilities\Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.PauseMenu" Collapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>References\Utilities\PauseMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.PauseMenuForm" Collapsed="true">
+    <Position X="21.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>mAAACAAAACAAgAAAAACAAAACAQAAAAAAAAAwJABCAAA=</HashCode>
+      <FileName>References\Utilities\PauseMenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.TargetingSystem" Collapsed="true">
+    <Position X="17.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABAgAAAAAAAABAIAAAACAAgAAAAAAAgAEAFAAAgQI=</HashCode>
+      <FileName>References\Utilities\TargetingSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.UpgradeSystem" Collapsed="true">
+    <Position X="26.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>References\Utilities\UpgradeSystem\UpgradeSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.UpgradeSystemForm" Collapsed="true">
+    <Position X="28.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIgAAAAAASgAABIABQCAQCAWAAQJACAAACIBAAAADAU=</HashCode>
+      <FileName>References\Utilities\UpgradeSystem\UpgradeSystemForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.UserControls" Collapsed="true">
+    <Position X="17.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAgAAAAAACAAAAAAAAAACAAAAACAAAAAAg=</HashCode>
+      <FileName>References\Utilities\UserControls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.GUI" Collapsed="true">
+    <Position X="23" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACEAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAIAAAA=</HashCode>
+      <FileName>UI\GUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Properties.Resources" Collapsed="true">
+    <Position X="24.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.Properties.Settings" Collapsed="true">
+    <Position X="21.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.References.Objects.NPCs.Trader">
+    <Position X="19.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>References\Objects\NPCs\Trader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.References.Objects.NPCs.TraderInventory">
+    <Position X="15.5" Y="9.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="RossHigleyProject7a.References.Objects.NPCs.TraderInventory.ItemID" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>References\Objects\NPCs\TraderInventory.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>References\Objects\NPCs\TraderInventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.References.Objects.NPCs.UpgradeRequestQueue">
+    <Position X="13.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAQAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>References\Objects\NPCs\UpgradeRequestQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.References.Objects.PlayerBussiness.Cargo">
+    <Position X="17.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>References\Objects\PlayerBussiness\Cargo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.References.Objects.PlayerBussiness.Maneuvers">
+    <Position X="15.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAIAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>References\Objects\PlayerBussiness\Maneuvers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.UI.CargoManifestWindow">
+    <Position X="21.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\CargoManifestWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.UI.FishEyeViewAdapter">
+    <Position X="13.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAIAAAAEAAAQBAAAAAAAIAAQAAAAAAAAA=</HashCode>
+      <FileName>UI\FishEyeViewAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.UI.FuelGauge">
+    <Position X="23" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>UI\FuelGauge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.UI.FuelGaugeBarGraph">
+    <Position X="17.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\FuelGaugeBarGraph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.UI.ShipAIFeedback">
+    <Position X="21.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\ShipAIFeedback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossHigleyProject7a.UI.TraderInfoWindow">
+    <Position X="19.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\TraderInfoWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

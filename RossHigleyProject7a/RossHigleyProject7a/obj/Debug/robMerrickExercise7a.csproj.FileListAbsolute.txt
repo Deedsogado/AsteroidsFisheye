@@ -1,0 +1,25 @@
+C:\Users\Rob\Documents\My Videogames\CS2282\Excercise7\Fresh Start\robMerrickExercise7a\robMerrickExercise7a\bin\Debug\robMerrickExercise7a.exe.config
+C:\Users\Rob\Documents\My Videogames\CS2282\Excercise7\Fresh Start\robMerrickExercise7a\robMerrickExercise7a\obj\Debug\robMerrickExercise7a.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Documents\My Videogames\CS2282\Excercise7\Fresh Start\robMerrickExercise7a\robMerrickExercise7a\obj\Debug\robMerrickExercise7a.Properties.Resources.resources
+C:\Users\Rob\Documents\My Videogames\CS2282\Excercise7\Fresh Start\robMerrickExercise7a\robMerrickExercise7a\obj\Debug\robMerrickExercise7a.csproj.GenerateResource.Cache
+C:\Users\Rob\Documents\My Videogames\CS2282\Excercise7\Fresh Start\robMerrickExercise7a\robMerrickExercise7a\bin\Debug\robMerrickExercise7a.exe
+C:\Users\Rob\Documents\My Videogames\CS2282\Excercise7\Fresh Start\robMerrickExercise7a\robMerrickExercise7a\bin\Debug\robMerrickExercise7a.pdb
+C:\Users\Rob\Documents\My Videogames\CS2282\Excercise7\Fresh Start\robMerrickExercise7a\robMerrickExercise7a\obj\Debug\robMerrickExercise7a.exe
+C:\Users\Rob\Documents\My Videogames\CS2282\Excercise7\Fresh Start\robMerrickExercise7a\robMerrickExercise7a\obj\Debug\robMerrickExercise7a.pdb
+C:\Users\Rob\Documents\My Videogames\CS2282\Excercise7\Fresh Start\robMerrickExercise7a\robMerrickExercise7a\obj\Debug\robMerrickExercise7a.MainForm.resources
+C:\Users\Beard\Documents\COURSES\CS2282OnLine\Module-7-Asteroids\Module-7-Project\robMerrickExercise7b\robMerrickExercise7a\bin\Debug\robMerrickExercise7a.exe.config
+C:\Users\Beard\Documents\COURSES\CS2282OnLine\Module-7-Asteroids\Module-7-Project\robMerrickExercise7b\robMerrickExercise7a\obj\Debug\robMerrickExercise7a.exe
+C:\Users\Beard\Documents\COURSES\CS2282OnLine\Module-7-Asteroids\Module-7-Project\robMerrickExercise7b\robMerrickExercise7a\obj\Debug\robMerrickExercise7a.pdb
+C:\Users\drfla_000\Documents\Visual Studio 2013\Projects\CS2282Projects\robMerrickExercise7b\robMerrickExercise7a\bin\Debug\robMerrickExercise7a.exe.config
+C:\Users\drfla_000\Documents\Visual Studio 2013\Projects\CS2282Projects\robMerrickExercise7b\robMerrickExercise7a\obj\Debug\robMerrickExercise7a.exe
+C:\Users\drfla_000\Documents\Visual Studio 2013\Projects\CS2282Projects\robMerrickExercise7b\robMerrickExercise7a\obj\Debug\robMerrickExercise7a.pdb
+C:\Users\drfla_000\Documents\Visual Studio 2013\Projects\CS2282Projects\robMerrickExercise7b\robMerrickExercise7a\bin\Debug\robMerrickExercise7a.exe
+C:\Users\drfla_000\Documents\Visual Studio 2013\Projects\CS2282Projects\robMerrickExercise7b\robMerrickExercise7a\bin\Debug\robMerrickExercise7a.pdb
+C:\Users\drfla_000\Documents\Visual Studio 2013\Projects\CS2282Projects\robMerrickExercise7b\robMerrickExercise7a\obj\Debug\robMerrickExercise7a.csprojResolveAssemblyReference.cache
+C:\Users\drfla_000\Documents\Visual Studio 2013\Projects\CS2282Projects\robMerrickExercise7b\robMerrickExercise7a\obj\Debug\robMerrickExercise7a.MainForm.resources
+C:\Users\drfla_000\Documents\Visual Studio 2013\Projects\CS2282Projects\robMerrickExercise7b\robMerrickExercise7a\obj\Debug\robMerrickExercise7a.Properties.Resources.resources
+C:\Users\drfla_000\Documents\Visual Studio 2013\Projects\CS2282Projects\robMerrickExercise7b\robMerrickExercise7a\obj\Debug\robMerrickExercise7a.csproj.GenerateResource.Cache
+C:\Users\drfla_000\Documents\Visual Studio 2013\Projects\CS2282Projects\JacobLehmerProject7\robMerrickJacobLehmer7\robMerrickExercise7a\bin\Debug\robMerrickExercise7a.exe.config
+C:\Users\drfla_000\Documents\Visual Studio 2013\Projects\CS2282Projects\JacobLehmerProject7\robMerrickJacobLehmer7\robMerrickExercise7a\obj\Debug\robMerrickExercise7a.exe
+C:\Users\drfla_000\Documents\Visual Studio 2013\Projects\CS2282Projects\JacobLehmerProject7\robMerrickJacobLehmer7\robMerrickExercise7a\obj\Debug\robMerrickExercise7a.pdb
+C:\Users\drfla_000\Documents\Visual Studio 2013\Projects\CS2282Projects\JacobLehmerProject7\robMerrickJacobLehmer7\robMerrickExercise7a\bin\Debug\robMerrickJacobLehmer7.exe.config
